@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+benWoz, born Benjamin Woznicki, is a seeker. Seeker of truth, art and life. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Although he gets paid to build software, manage products and coach others to do the same, Woz has found that expertise needs to extend far beyond making money.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The goal of this site is to share some of the lessons that Ben has found to be valuable. How do you remove gluten from your diet and still go out to eat? How do I mount a shelf in my office? What about lighting for my vblog? What's the best way to stabalize a brittle codebase? Why doesn't my developer know what the business needs?
+
+It's a broad spread of topics with a common core: life skills.
+
+Thx, Ben Woz
